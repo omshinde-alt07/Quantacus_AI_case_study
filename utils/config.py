@@ -1,0 +1,10 @@
+#config file
+
+
+SERVICE_ACCOUNT_PATH = "service_account.json"
+
+SPREADSHEET_ID = "1BzG9Oz6yfqUGxR2_0jrRS8QK3n0k8pp4_tFZwQAAKtI"
+
+WORKSHEET_NAME = "Sheet1"
+
+IMAGE_QUALITY = 95
